@@ -1,3 +1,5 @@
 MIGUEL
 1. WEB DEVELOPMENT
 2. HTML CSS JS
+3. Flexbox
+4. Bootstrap
